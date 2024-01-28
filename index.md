@@ -15,7 +15,6 @@ page_url: # only include this variable if you aren't building the page to your p
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
 github_username:  TravDunc # your github username
 linkedin: travis-w-duncan # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
