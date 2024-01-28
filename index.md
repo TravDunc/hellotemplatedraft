@@ -42,12 +42,12 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### Travis Duncan | Information Systems Security Manager  
+### Travis Duncan
 
-### Reducing cybersecurity risk.
-  
-CISSP with 6 years of IT and cybersecurity experience and has worked as an Information Systems Security Manager in the Risk Management Framework.
-  
-Holds a Master of Science degree in Cybersecurity and Information Assurance and a Department of Defense Secret security clearance.
+#### Information Systems Security Manager
 
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+### **Reducing cybersecurity risk**.
+  
+**CISSP** with 6 years of IT and cybersecurity experience who has worked as an Information Systems Security Manager in the **Risk Management Framework**.
+  
+Holds a **Master of Science** degree in Cybersecurity and Information Assurance and a Department of Defense **Secret security clearance**.
