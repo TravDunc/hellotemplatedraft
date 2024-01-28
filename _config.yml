@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Travis Duncan | Information Systems Security Manager
+title: Travis Duncan | CISSP & ISSM
 author: Travis Duncan
 description: > 
-  CISSP with 6 years of IT and cybersecurity experience
+  CISSP with 6 years in IT and cybersecurity
 baseurl: ""
 
 plugins:
