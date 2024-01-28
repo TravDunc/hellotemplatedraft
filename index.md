@@ -41,9 +41,9 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### Travis Duncan
+# Travis Duncan
 
-#### Information Systems Security Manager
+## CISSP | Information Systems Security Manager
 
 ### **Reducing cybersecurity risk**.
   
