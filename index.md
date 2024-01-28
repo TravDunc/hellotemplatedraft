@@ -4,7 +4,7 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: Travis Duncan | Informaton Systems Security Manager
+banner_title: Travis Duncan
 banner_subtitle: Reducing cybersecurity risk.
 background_image: /images/background.jpeg
 
