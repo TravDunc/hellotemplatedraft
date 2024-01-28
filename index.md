@@ -16,8 +16,8 @@ favicon: /assets/ico/favicon.ico
 
 # social media
 twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
+github_username:  TravDunc # your github username
+linkedin: travis-w-duncan # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
@@ -37,18 +37,16 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
 cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
+cta_button: mailto:travisduncan@example.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### Travis Duncan | Information Systems Security Manager  
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### Reducing cybersecurity risk.
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
+CISSP with 6 years of IT and cybersecurity experience and has worked hands-on with the Risk Management Framework.
   
 
 The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
