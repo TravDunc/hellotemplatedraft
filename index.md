@@ -23,7 +23,7 @@ linkedin: travis-w-duncan # the part after ("https://www.linkedin.com/in/...")
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: https://www.credly.com/users/travisduncan/badges # the link
-about_button_label: My Credly badges
+about_button_label: Credly | verify my certifications
 
 # optional portfolio section ------------------------------------------
 
