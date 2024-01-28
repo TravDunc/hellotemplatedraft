@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hello for github pages
-banner_subtitle: a minimalist template for personal websites
+banner_title: Travis Duncan | Informaton Systems Security Manager
+banner_subtitle: Reducing cybersecurity risk.
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -46,10 +46,8 @@ cta_button_label: contact # the label on the button
 
 ### Reducing cybersecurity risk.
   
-CISSP with 6 years of IT and cybersecurity experience and has worked hands-on with the Risk Management Framework.
+CISSP with 6 years of IT and cybersecurity experience and has worked as an Information Systems Security Manager in the Risk Management Framework.
   
-
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
+Holds a Master of Science degree in Cybersecurity and Information Assurance and a Department of Defense Secret security clearance.
 
 **hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
